@@ -1,7 +1,10 @@
 # finalCapstone
 Name: Capstone Project II - Task_manager_17.
+
 This repository includes the last Capstone Project I coded for my task T17.
+
 Description:
+
 It is a task manager program for a small business written in Python.
 A program designed for a small business to manage tasks assigned to each member of a team. 
 The program utilizes lists, dictionaries, functions, string handling, error handling, and refactoring concepts.
